@@ -6,3 +6,4 @@ print("你好," + name + "欢迎学习 Python!")
 
 print("我正在学习 Git 和 GitHub!")
 print("这是我在 feature 分支上的第一次尝试！")
+print("这是第 7 课的 Pull Request 练习！")
